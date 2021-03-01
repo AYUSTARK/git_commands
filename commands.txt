@@ -1,0 +1,14 @@
+GitHub is a website that is used to store git repositories which helps in collaborations.
+Commands:-
+
+git add : Adds files which are to be included in the next commit
+git merge : merges to branches in one
+git pull : pulls the latest version of the repository from the remote server
+git push : publishes the latest repository to the remote server
+git commit : saves the repository in the local computer with a message
+git log : shows a list of all the commits made
+git status : prints the current status of the repository
+git clone : downloads the whole repository from a remote server into our local computer
+git checkout : changes the current working branch to the branch specified
+git branch : displays a list of all the branches
+git branch <file_name> : creates a new branch with the name as file_name
